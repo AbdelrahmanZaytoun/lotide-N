@@ -1,13 +1,13 @@
 {
-  "name": "lotide2",
+  "name": "@abdelrahmanzaytoun/lotide",
   "version": "1.0.1",
-  "main": "assertEqual.js",
+  "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
+  "author": "Abdelrahman Zaytoun",
   "license": "ISC",
-  "description": "",
+  "description": "This project was created and published by me Zaytoun as part of my learnings at Lighthouse Labs.",
   "devDependencies": {
     "chai": "^4.3.4",
     "mocha": "^9.0.3"
