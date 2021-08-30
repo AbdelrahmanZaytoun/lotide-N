@@ -32,8 +32,8 @@ The following functions are currently implemented:
 * assertObjectsEqual Function :  comparison => return assertion passed OR failed 
 * countLetters Function : counts letters
 * countOnly Function : counts matching items in the array
-* eqArrays Function : return true/false if  equal /NOT equal 
-* eqObjects Function : return true/false if  equal /NOT equal 
+* eqArrays Function : Function returns true if two arrays are the same and false if not
+* eqObjects Function : function returns true if two objects are the smae and false if not
 * findKeyByValue Function : return an elements of array if they are matched with the value 
 * findKeys
 * flatten Function : nested array
