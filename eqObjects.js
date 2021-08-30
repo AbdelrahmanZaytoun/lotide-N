@@ -14,7 +14,7 @@ const eqObjects = function(object1, object2) {
         return false;
       }
     }
-  } return true
+  }return true
 };
 
 module.exports = eqObjects;
