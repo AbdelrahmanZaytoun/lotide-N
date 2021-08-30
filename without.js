@@ -4,8 +4,7 @@ const without = function(array1, array2) {
       if (!array2.includes(element)) {
         filteredArray.push(element);
       }
-    }
-    return filteredArray;
+    } return filteredArray;
   };
   
   module.exports = without;

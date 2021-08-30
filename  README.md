@@ -43,3 +43,5 @@ The following functions are currently implemented:
 * middle Function: return one middle if the array is odd number OR 2 middle if it is even number
 * takeUntil Function
 * without Function 
+
+<!-- //https://www.npmjs.com/package/@abdelrahmanzaytoun/lotide -->

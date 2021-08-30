@@ -6,18 +6,13 @@ const letterPositions = function(sentence) {
   for (const letter of sentence) {
     if (letter !== " ") {
       if (results[letter]) {
-
-
         counter += 1;
         results[letter].push(counter);
-      }
-      
-      else {
+      } else {
         counter += 1;
         results[letter] = [counter];
       }
     }
-    
     else {
       counter += 1;
     }
